@@ -1,0 +1,6 @@
+{
+  "name": "3D PC Builder & Rig Visualizer",
+  "description": "Interactive 3D PC rig modeler that dynamically constructs a real-time 3D computer model as parts are searched and selected.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
